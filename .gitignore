@@ -1,0 +1,14 @@
+*.dot
+*.ir
+*.dat
+*.pyc
+*.csv
+*.gz
+*.tar
+*.zip
+*.rar
+*.ipynb
+.idea/
+build/
+dist/
+local_script/
